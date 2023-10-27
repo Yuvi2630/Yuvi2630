@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Yuvi2630.
-- 👀 I’m interested in Trading Cryptos,Stock and Forex.
-- 🌱 I’m currently learning Electronics and Telecommunication.
-- 💞️ I’m looking to collaborate on Trading.
+- 👋 Developer
+- 👀   Trading Cryptos,Stock and Forex
 - 📫 How to reach me:yuvrajvarma26@gmail.com. 
 
 <!---
