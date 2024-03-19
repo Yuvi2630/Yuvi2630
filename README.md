@@ -1,5 +1,5 @@
 - 👋 Developer
-- 👀   Trading Cryptos,Stock and Forex
+- 👀  
 - 📫 How to reach me:yuvrajvarma26@gmail.com. 
 
 <!---
